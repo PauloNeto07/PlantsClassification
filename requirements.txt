@@ -1,0 +1,6 @@
+streamlit
+lime
+mahotas
+pandas
+numpy
+opencv-python
